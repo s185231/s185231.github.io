@@ -36,7 +36,6 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 #theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-default-layout
 
 # Exclude from processing.
 # The following items will not be processed, by default.
