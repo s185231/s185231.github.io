@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll 1!"
 ---
-
+{%- include mathjax.html -%}
 # Welcome
 
 **Hello world**, this is my first Jekyll blog post.
