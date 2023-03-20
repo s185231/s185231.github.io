@@ -33,7 +33,7 @@ github_username:  jekyll
 
 #remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
-theme: cayman
+remote_theme: cayman
 plugins:
   - jekyll-feed
 
